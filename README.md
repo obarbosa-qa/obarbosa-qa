@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Otávio Barbosa!
+# 👋 Olá, eu sou o Otávio!
 
 🎯 **QA Analyst | Qualidade de Software | Testes Manuais e Automatizados**
 
