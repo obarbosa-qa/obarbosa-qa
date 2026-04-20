@@ -44,7 +44,7 @@
 ![Automatizados](https://img.shields.io/badge/-Automatizados-00897B?style=flat-square)
 ![Funcionais](https://img.shields.io/badge/-Funcionais-2E8B57?style=flat-square)
 ![Regressivos](https://img.shields.io/badge/-Regressivos-B22222?style=flat-square)
-![Unitários](https://img.shields.io/badge/-Unit%C3%A1rios-9C27B0?style=flat-square)
+![E2E](https://img.shields.io/badge/-Unit%C3%A1rios-9C27B0?style=flat-square)
 ![Integração](https://img.shields.io/badge/-Integra%C3%A7%C3%A3o-FF8C00?style=flat-square)
 ![API](https://img.shields.io/badge/-API-20B2AA?style=flat-square)
 ![Web](https://img.shields.io/badge/-Web-1E90FF?style=flat-square)
