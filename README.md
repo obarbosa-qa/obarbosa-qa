@@ -38,26 +38,35 @@
 
 ---
 
-## 🧪 Tipos de Testes que executo
+## 🧪 Tipos de Testes
 
-![Testes Manuais](https://img.shields.io/badge/Testes%20Manuais-0A66C2?style=for-the-badge)
-![Testes Funcionais](https://img.shields.io/badge/Testes%20Funcionais-2E8B57?style=for-the-badge)
-![Testes Exploratórios](https://img.shields.io/badge/Testes%20Explorat%C3%B3rios-8A2BE2?style=for-the-badge)
-![Testes Regressivos](https://img.shields.io/badge/Testes%20Regressivos-B22222?style=for-the-badge)
-![Testes de Integração](https://img.shields.io/badge/Testes%20de%20Integra%C3%A7%C3%A3o-FF8C00?style=for-the-badge)
-![Testes de API](https://img.shields.io/badge/Testes%20de%20API-20B2AA?style=for-the-badge)
-![Testes de Estresse](https://img.shields.io/badge/Testes%20de%20Estresse-DC143C?style=for-the-badge)
-![Análise de Causa Raiz](https://img.shields.io/badge/An%C3%A1lise%20de%20Causa%20Raiz-4B0082?style=for-the-badge)
+![Manuais](https://img.shields.io/badge/-Manuais-0A66C2?style=flat-square)
+![Automatizados](https://img.shields.io/badge/-Automatizados-00897B?style=flat-square)
+![Funcionais](https://img.shields.io/badge/-Funcionais-2E8B57?style=flat-square)
+![Regressivos](https://img.shields.io/badge/-Regressivos-B22222?style=flat-square)
+![Unitários](https://img.shields.io/badge/-Unit%C3%A1rios-9C27B0?style=flat-square)
+![Integração](https://img.shields.io/badge/-Integra%C3%A7%C3%A3o-FF8C00?style=flat-square)
+![API](https://img.shields.io/badge/-API-20B2AA?style=flat-square)
+![Web](https://img.shields.io/badge/-Web-1E90FF?style=flat-square)
+![Mobile](https://img.shields.io/badge/-Mobile-6A5ACD?style=flat-square)
+![Performance](https://img.shields.io/badge/-Performance-FF4500?style=flat-square)
+![Segurança](https://img.shields.io/badge/-Seguran%C3%A7a-8B0000?style=flat-square)
 
 ---
 
 ## 📊 Estatísticas
 
-<div align="left">
-  <a href="https://github.com/obarbosa-qa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obarbosa-qa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obarbosa-qa&layout=compact&langs_count=7&theme=tokyonight" />
-  </a>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obarbosa-qa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obarbosa-qa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obarbosa-qa&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=obarbosa-qa&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 </div>
 
 ---
