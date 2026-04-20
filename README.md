@@ -10,7 +10,7 @@
 - 🏦 Experiência em **automação bancária**, validação de **PIX, TEF, TED, liquidações e agendamentos**
 - 🤖 Atuação em **testes manuais, automatizados, API, integração, regressivos e estresse**
 - 🔎 Forte em **análise de requisitos, análise de logs, banco de dados e causa raiz**
-- 🛠️ Estruturação de **automação Web e Mobile** com Java, Selenium, Appium, JUnit e Allure
+- 🛠️ Estruturação de **automação Web e Mobile** com Java Selenium, Appium, Cypress e Playwright 
 - 🎓 Graduação em **Engenharia da Computação - UNINTER**
 - 📍 **Araraquara - SP, Brasil**
 
