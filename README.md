@@ -61,14 +61,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obarbosa-qa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obarbosa-qa&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=obarbosa-qa&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
-</div>
-
 ---
 
 ## 📫 Contato
